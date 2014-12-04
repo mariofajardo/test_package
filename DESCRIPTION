@@ -1,9 +1,9 @@
 Package: Test
-Title: What the package does (one line)
-Version: 0.1
-Author: "First Last <first.last@example.com> [aut, cre]"
-Maintainer: caca <first.last@example.com>
-Description: What the package does (one paragraph)
+Title: Con este paquete nos haremos millonarios
+Version: 1.0
+Author: Mario
+Maintainer: caca <caca@caca.com>
+Description: Nada aun ... jojo
 Depends:
     R (>= 3.1.2)
 License: MIT
